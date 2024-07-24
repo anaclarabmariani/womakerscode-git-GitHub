@@ -12,3 +12,8 @@ O versionamento é o controle das versões. Cada vez que algum arquivo no reposi
 
 Um repositório é a pasta onde armazenamos os arquivos de um determinado projeto.
 
+
+### Instalação do Git
+
+### Configuração do Git
+
