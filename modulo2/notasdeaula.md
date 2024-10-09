@@ -39,6 +39,11 @@ No site do GitHub:
             - *git remote add origin chave_SSH*
         - *git remote -v* --> para ver se deu certo a conexão
 
+### Roteiro para clonar um repositório do GitHub na sua máquina local e fazer alterações nele
+
+- **No repositório do GitHub que você deseja clonar:** Copiar chave SSH ou HTTPS do repositório remoto (Code --> HTTPS ou Code --> SSH)
+- **No terminal (na pasta local em que você quer colocar o repositório):** Comando *git clone CHAVE HTTPS ou SSH*
+
 ### Comandos mais utilizados:
 
 #### Git status
