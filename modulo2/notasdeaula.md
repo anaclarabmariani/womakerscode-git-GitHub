@@ -16,14 +16,14 @@
 ### Roteiro para configuração do acesso ao repositório por SSH
 
 No terminal de comando do computador:
-- *cd ~/.ssh* --> entrar nesse diretório
+- *cd ~/.ssh* --> entrar no diretório .shh
 - *ls* --> vê as chaves no diretório
-- *ssh -keygen -o* --> adiciona nova chave ssh
+- *ssh-keygen -o* --> adiciona nova chave ssh
 - *cat ~/.ssh/id-XXX.pub* --> abre a chave no terminal
 - Copiar a chave que aparece no seu terminal
 
 No site do GitHub:
-- entrar na parte de SSH e chaves e colar o código da chave que você copiou.
+- entrar na parte de SSH e chaves (Settings --> SSH and GPG keys --> New SSH key) e colar o código da chave que você copiou.
 
 ### Roteiro para conectar o repositório local com um repositório remoto no GitHub
 
